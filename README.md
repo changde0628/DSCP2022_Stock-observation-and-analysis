@@ -35,6 +35,6 @@ Note: Please **make sure your input is valid**, otherwise you will be asked to r
 
 ## Demo
 
-![](https://github.com/changde0628/DSCP_FinalProject_2022_41075901H/blob/main/Demo1.png)
+![](https://github.com/changde0628/DSCP_FinalProject_2022_Stock-observation-and-analysis/blob/main/Demo1.png)
 
-![](https://github.com/changde0628/DSCP_FinalProject_2022_41075901H/blob/main/Demo2.png)
+![](https://github.com/changde0628/DSCP_FinalProject_2022_Stock-observation-and-analysis/blob/main/Demo2.png)
