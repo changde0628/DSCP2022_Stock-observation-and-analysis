@@ -35,6 +35,6 @@ Note: Please **make sure your input is valid**, otherwise you will be asked to r
 
 ## Demo
 
-<img src="C:\Users\hihet\Desktop\DSCP Final Project - Stock observation and analysis.assets\下載.png" style="zoom: 50%;" />
+![](https://github.com/changde0628/DSCP_FinalProject_2022_41075901H/blob/main/Demo1.png)
 
-<img src="C:\Users\hihet\Desktop\DSCP Final Project - Stock observation and analysis.assets\image-20221209205553169.png" alt="image-20221209205553169" style="zoom: 67%;" />
+![](https://github.com/changde0628/DSCP_FinalProject_2022_41075901H/blob/main/Demo2.png)
